@@ -67,7 +67,7 @@
     "mocha": "^3.3.0",
     "nyc": "^10.2.0",
     "prettier": "^1.7.4",
-    "react": "^16.0.0",
+    "react": "^17.0.0",
     "react-dom": "^16.0.0",
     "react-test-renderer": "^16.0.0",
     "sinon": "^2.1.0",
